@@ -252,7 +252,7 @@ MERN Based Property Booking Platform
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/komalkhatod1105/komalkhatod1105/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/komalkhatod1105/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ## 🏆 GitHub Achievements
