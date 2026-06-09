@@ -1,13 +1,39 @@
 <h1 align="center">Hi 👋, I'm Komal Khatod</h1>
-<h3 align="center">Computer Science Student | MERN Stack Developer | Problem Solver| AI-ML</h3>
+
+<h3 align="center">
+Computer Science Student | MERN Stack Developer | AI/ML Enthusiast | Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;C%2B%2B+Programmer;Problem+Solver;GATE+CSE+Aspirant;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;AI+%26+Machine+Learning+Learner;Competitive+Programmer;Linux+Enthusiast;Open+Source+Learner;Building+Projects+That+Matter" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=komalkhatod&label=Profile+Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=komalkhatod1105&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=komalkhatod1105&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+## 🐧 Linux & Terminal
+
+```bash
+$ whoami
+Komal Khatod
+
+$ cat skills.txt
+C++ | MERN | AI/ML | SQL | Django
+
+$ pwd
+/Developer/CompetitiveProgrammer
+
+$ sudo apt install success
+Installing...
+Done ✅
+```
 
 ---
 
@@ -17,13 +43,17 @@
 
 💻 Passionate MERN Stack Developer
 
-🧠 Strong foundation in C++, OOPs, DBMS and DSA
+🤖 Exploring AI & Machine Learning
 
-🚀 Building real-world applications and solving coding problems
+🧠 Strong foundation in C++, DSA, OOPs and DBMS
 
-🌱 Currently learning Full Stack Development and System Design
+🚀 Building Real World Projects
 
-🏆 SIH 2024 Winner & GFG Coding Competition Winner
+🐧 Linux Enthusiast
+
+🏆 Smart India Hackathon Winner
+
+🌱 Currently Learning System Design & Advanced Development
 
 📍 Rajasthan, India
 
@@ -31,7 +61,8 @@
 
 ## 🔗 Connect With Me
 
-<p align="left">
+<p align="center">
+
 <a href="https://github.com/komalkhatod1105">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
@@ -44,93 +75,53 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/komalk8">
+<a href="https://www.geeksforgeeks.org/user/komalk8">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
+
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-### Programming Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
-
-### Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-
-### Backend Development
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,express,mongodb,mysql,django,git,github,linux,vscode,bootstrap,tailwind" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🏡 HomelyHub
-MERN-based property booking platform
+MERN based Property Booking Platform
 
-- Property Listings
-- Availability Checking
-- Booking System
 - Responsive UI
-
----
+- Property Listings
+- Booking Management
+- Authentication System
 
 ### 🤖 Fake Review Detection System
 
-- NLP & Machine Learning
-- TF-IDF Vectorization
+- NLP
+- Machine Learning
+- TF-IDF
 - Logistic Regression
-- SVM Classification
-
----
+- SVM
 
 ### 💊 MediSafe Tracker
 
-- Medicine Management System
+- Medicine Management
 - Refill Alerts
 - Expiry Notifications
 - SQLite Database
-
----
 
 ### 🌆 One Stop Guide
 
 - City Exploration Platform
 - Tourism & Food Discovery
 - User Authentication
-- MySQL Database
+- MySQL Integration
 
 ---
 
@@ -140,36 +131,77 @@ MERN-based property booking platform
 
 🥇 CodeQuest (GFG Coding Competition) – 1st Prize
 
-🎯 Active Competitive Programmer
-
 💡 Open Source Enthusiast
+
+🎯 Competitive Programmer
+
+🏅 Active Problem Solver
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Full Stack Development
+- 🤖 AI & Machine Learning
+- 📚 GATE CSE Preparation
+- 🧠 Data Structures & Algorithms
+- 🐧 Linux & Open Source
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=komalkhatod1105&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=komalkhatod1105&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalkhatod1105&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=komalkhatod1105&theme=tokyonight"/>
-</p>
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalkhatod1105&layout=compact&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=komalkhatod1105&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=komalkhatod1105&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 💻 Competitive Programming
+
+🏆 LeetCode Enthusiast
+
+🏆 GeeksforGeeks Problem Solver
+
+🏆 C++ Programmer
+
+🏆 DSA Learner
+
+🏆 Competitive Coding
 
 ---
 
 ## 💬 Quote
 
-> "Code. Learn. Build. Repeat."
+> "First, solve the problem. Then, write the code."
 
-⭐ Thanks for visiting my profile!
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
