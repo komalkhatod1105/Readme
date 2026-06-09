@@ -116,6 +116,86 @@ Success Installed ✔
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
 </p>
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=komalkhatod1105&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalkhatod1105&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=komalkhatod1105&theme=radical&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=komalkhatod1105&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=komalkhatod1105&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/komalk8">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Facts
+
+- 🐧 Linux Enthusiast
+- 💻 MERN Stack Developer
+- 🤖 AI & Machine Learning Learner
+- 🚀 Love Building Real World Projects
+- 🏆 Competitive Programmer
+- 🌱 Always Learning Something New
+
+---
+
+# 📚 Developer Philosophy
+
+> "First, solve the problem. Then, write the code."
+
+> "Consistency beats talent when talent doesn't work consistently."
+
+> "Learning never exhausts the mind."
+
+---
+
+<h3 align="center">
+✨ Code • Learn • Build • Repeat ✨
+</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
+</p>
+
 
 
 ## 🌱 Currently Learning
@@ -214,36 +294,6 @@ MERN Based Property Booking Platform
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=komalkhatod1105&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalkhatod1105&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=komalkhatod1105&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=komalkhatod1105&theme=tokyo-night"/>
-</p>
-
----
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/komalkhatod1105/komalkhatod1105/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ## 💻 Competitive Programming
 
