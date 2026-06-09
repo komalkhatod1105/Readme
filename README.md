@@ -5,15 +5,75 @@ Computer Science Student | MERN Stack Developer | AI/ML Enthusiast | Problem Sol
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;AI+%26+Machine+Learning+Learner;Competitive+Programmer;Linux+Enthusiast;Open+Source+Learner;Building+Projects+That+Matter" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=850&lines=MERN+Stack+Developer;AI+%26+Machine+Learning+Learner;Competitive+Programmer;Linux+Enthusiast;Open+Source+Learner;Building+Projects+That+Matter" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=komalkhatod1105&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+---
+
+## 👩‍💻 About Me
+
+🎓 B.Tech CSE Student at Mody University of Science and Technology
+
+💻 Passionate MERN Stack Developer
+
+🤖 Exploring Artificial Intelligence & Machine Learning
+
+🧠 Strong foundation in C++, DSA, OOPs and DBMS
+
+🚀 Building Real World Projects
+
+🐧 Linux Enthusiast
+
+🏆 Smart India Hackathon Winner
+
+🌱 Currently Learning Advanced Development & System Design
+
+📍 Rajasthan, India
+
+⚡ Fun Fact: I enjoy turning ideas into impactful applications.
+
+---
+
+## 📊 Profile Summary
+
+- 🎓 Computer Science Student
+- 💻 MERN Stack Developer
+- 🤖 AI/ML Learner
+- 🏆 SIH Winner
+- 🧠 DSA Enthusiast
+- 🐧 Linux User
+- 🌱 Lifelong Learner
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=komalkhatod1105&theme=tokyonight&row=1&column=7" />
+
+<a href="https://github.com/komalkhatod1105">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/Komal-Khatod">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:komalkhatod1234@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/komalk8">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -25,69 +85,26 @@ $ whoami
 Komal Khatod
 
 $ cat skills.txt
-C++ | MERN | AI/ML | SQL | Django | Linux
+C++
+MERN Stack
+AI/ML
+SQL
+Django
+Linux
 
 $ pwd
-/Developer/CompetitiveProgrammer
+/home/komal/developer
 
 $ sudo apt install success
-Installing...
-Done ✅
+
+Reading package lists... Done
+Building dependency tree... Done
+Success Installed ✔
 ```
 
 ---
 
-## 👩‍💻 About Me
-
-🎓 B.Tech CSE Student at Mody University of Science and Technology
-
-💻 Passionate MERN Stack Developer
-
-🤖 Exploring AI & Machine Learning
-
-🧠 Strong foundation in C++, DSA, OOPs and DBMS
-
-🚀 Building Real World Projects
-
-🐧 Linux Enthusiast
-
-🏆 Smart India Hackathon Winner
-
-🌱 Currently Learning System Design & Advanced Development
-
-📍 Rajasthan, India
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/komalkhatod1105">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/Komal-Khatod">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:komalkhatod1234@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/komalk8">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-</p>
-
----
-
-## ⚡ Tech Stack
+## ⚒️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,express,mongodb,mysql,django,git,github,linux,vscode,bootstrap,tailwind&perline=9" />
@@ -97,39 +114,67 @@ Done ✅
 <img src="https://skillicons.dev/icons?i=figma,postman,npm" />
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced MERN Stack
+- Machine Learning
+- System Design
+- Linux Administration
+- Open Source Development
+
 ---
 
 ## 🚀 Featured Projects
 
 ### 🏡 HomelyHub
-MERN based Property Booking Platform
+MERN Based Property Booking Platform
 
-- Responsive UI
-- Property Listings
-- Booking Management
-- Authentication System
+✔ Property Listings
+
+✔ Booking Management
+
+✔ Authentication
+
+✔ Responsive Design
 
 ### 🤖 Fake Review Detection System
 
-- NLP
-- Machine Learning
-- TF-IDF
-- Logistic Regression
-- SVM
+✔ NLP Techniques
+
+✔ TF-IDF Vectorization
+
+✔ Logistic Regression
+
+✔ SVM Classification
+
+✔ Machine Learning
 
 ### 💊 MediSafe Tracker
 
-- Medicine Management
-- Refill Alerts
-- Expiry Notifications
-- SQLite Database
+✔ Medicine Reminder System
+
+✔ Expiry Notifications
+
+✔ Refill Alerts
+
+✔ SQLite Database
 
 ### 🌆 One Stop Guide
 
-- City Exploration Platform
-- Tourism & Food Discovery
-- User Authentication
-- MySQL Integration
+✔ City Exploration Platform
+
+✔ Tourism & Food Discovery
+
+✔ User Authentication
+
+✔ MySQL Integration
 
 ---
 
@@ -147,21 +192,37 @@ MERN based Property Booking Platform
 
 ---
 
-## 🎯 Current Focus
+## 📚 Favorite CS Subjects
 
-- 🚀 Full Stack Development
-- 🤖 AI & Machine Learning
-- 📚 GATE CSE Preparation
-- 🧠 Data Structures & Algorithms
-- 🐧 Linux & Open Source
+- Data Structures & Algorithms
+- Object Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- Machine Learning
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Coding Journey
+
+🔹 Started with C Programming
+
+🔹 Learned C++ & DSA
+
+🔹 Built Web Projects using MERN
+
+🔹 Exploring AI & Machine Learning
+
+🔹 Contributing to Open Source
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=komalkhatod1105&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalkhatod1105&layout=compact&theme=tokyonight" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=komalkhatod1105&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalkhatod1105&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -169,7 +230,7 @@ MERN based Property Booking Platform
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=komalkhatod1105&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=komalkhatod1105&theme=tokyonight"/>
 </p>
 
 ---
@@ -178,14 +239,6 @@ MERN based Property Booking Platform
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=komalkhatod1105&theme=tokyo-night"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -204,12 +257,20 @@ MERN based Property Booking Platform
 
 ---
 
-## 💬 Quote
+## 💡 Developer Philosophy
 
-> "First, solve the problem. Then, write the code."
+> Every bug is an opportunity to learn.
+
+> Consistency beats intensity.
+
+> Build projects, not excuses.
 
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile ⭐
+✨ Code • Learn • Build • Repeat ✨
 </h3>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
+</p>
