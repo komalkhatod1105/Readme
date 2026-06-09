@@ -52,28 +52,28 @@ Computer Science Student | MERN Stack Developer | AI/ML Enthusiast | Problem Sol
 
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
-
 <p align="center">
-<a href="https://github.com/komalkhatod1105" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="50" />
+
+<a href="https://github.com/komalkhatod1105">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="https://linkedin.com/in/Komal-Khatod" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+<a href="https://linkedin.com/in/Komal-Khatod">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 <a href="mailto:komalkhatod1234@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50" />
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
 <a href="https://leetcode.com">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50" />
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/komalk8">
-<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="50" />
+<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="50"/>
 </a>
+
 </p>
 
 ---
@@ -85,6 +85,7 @@ $ whoami
 Komal Khatod
 
 $ cat skills.txt
+
 C++
 MERN Stack
 AI/ML
@@ -93,6 +94,7 @@ Django
 Linux
 
 $ pwd
+
 /home/komal/developer
 
 $ sudo apt install success
@@ -105,98 +107,17 @@ Success Installed ✔
 ---
 
 ## ⚒️ Tech Stack
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,express,mongodb,mysql,django,git,github,linux,vscode,bootstrap,tailwind,figma,postman,npm" />
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-
-</p>
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=komalkhatod1105&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalkhatod1105&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=komalkhatod1105&theme=radical&hide_border=true" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=komalkhatod1105&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=komalkhatod1105&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/komalk8">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# ⚡ Fun Facts
-
-- 🐧 Linux Enthusiast
-- 💻 MERN Stack Developer
-- 🤖 AI & Machine Learning Learner
-- 🚀 Love Building Real World Projects
-- 🏆 Competitive Programmer
-- 🌱 Always Learning Something New
-
----
-
-# 📚 Developer Philosophy
-
-> "First, solve the problem. Then, write the code."
-
-> "Consistency beats talent when talent doesn't work consistently."
-
-> "Learning never exhausts the mind."
-
----
-
-<h3 align="center">
-✨ Code • Learn • Build • Repeat ✨
-</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
-</p>
-
-
 
 ## 🌱 Currently Learning
 
@@ -211,6 +132,7 @@ Success Installed ✔
 ## 🚀 Featured Projects
 
 ### 🏡 HomelyHub
+
 MERN Based Property Booking Platform
 
 ✔ Property Listings
@@ -220,6 +142,8 @@ MERN Based Property Booking Platform
 ✔ Authentication
 
 ✔ Responsive Design
+
+---
 
 ### 🤖 Fake Review Detection System
 
@@ -233,6 +157,8 @@ MERN Based Property Booking Platform
 
 ✔ Machine Learning
 
+---
+
 ### 💊 MediSafe Tracker
 
 ✔ Medicine Reminder System
@@ -242,6 +168,8 @@ MERN Based Property Booking Platform
 ✔ Refill Alerts
 
 ✔ SQLite Database
+
+---
 
 ### 🌆 One Stop Guide
 
@@ -294,6 +222,47 @@ MERN Based Property Booking Platform
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=komalkhatod1105&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalkhatod1105&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=komalkhatod1105&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=komalkhatod1105&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/komalkhatod1105/komalkhatod1105/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=komalkhatod1105&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
+
+---
 
 ## 💻 Competitive Programming
 
@@ -311,11 +280,11 @@ MERN Based Property Booking Platform
 
 ## 💡 Developer Philosophy
 
-> Every bug is an opportunity to learn.
+> "First, solve the problem. Then, write the code."
 
-> Consistency beats intensity.
+> "Consistency beats talent when talent doesn't work consistently."
 
-> Build projects, not excuses.
+> "Learning never exhausts the mind."
 
 ---
 
