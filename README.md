@@ -25,7 +25,7 @@ $ whoami
 Komal Khatod
 
 $ cat skills.txt
-C++ | MERN | AI/ML | SQL | Django
+C++ | MERN | AI/ML | SQL | Django | Linux
 
 $ pwd
 /Developer/CompetitiveProgrammer
@@ -75,6 +75,10 @@ Done ✅
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
 <a href="https://www.geeksforgeeks.org/user/komalk8">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
@@ -86,7 +90,11 @@ Done ✅
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,express,mongodb,mysql,django,git,github,linux,vscode,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,express,mongodb,mysql,django,git,github,linux,vscode,bootstrap,tailwind&perline=9" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,postman,npm" />
 </p>
 
 ---
