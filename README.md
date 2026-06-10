@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Komal Khatod</h1>
+<h1 align="center">Hi I am Komal Khatod</h1>
 
 <h3 align="center">
 Computer Science Student | MERN Stack Developer | AI/ML Enthusiast | Problem Solver
@@ -249,19 +249,7 @@ MERN Based Property Booking Platform
 </p>
 
 ---
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/komalkhatod1105/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=komalkhatod1105&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-</p>
-
----
 
 ## 💻 Competitive Programming
 
